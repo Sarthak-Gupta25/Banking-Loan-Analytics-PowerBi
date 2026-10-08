@@ -39,8 +39,6 @@ The dashboard displays key metrics such as:
 - Active Loans: 102
 - Default Rate: 12.67%
 
-*Values shown are based on the project dataset/dashboard snapshot.*
-
 ## 📊 Dashboard Visualizations
 
 The dashboard includes:
@@ -85,10 +83,7 @@ loan products, including Home Loan, LAP, Business Loan, Car Loan,
 Personal Loan, Education Loan, Agriculture Loan, Credit Line Loan,
 and Gold Loan.
 
-## 📁 Project Structure
-
-```text
-banking-loan-analytics-powerbi/
+##banking-loan-analytics-powerbi/
 │
 ├── README.md
 │
@@ -104,8 +99,5 @@ banking-loan-analytics-powerbi/
 └── Documentation/
     └── Dashboard_Overview.md
 
-
-
-
-
-
+## 👤 Author
+Sarthak Gupta
