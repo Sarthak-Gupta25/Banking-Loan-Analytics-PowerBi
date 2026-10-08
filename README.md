@@ -104,5 +104,5 @@ banking-loan-analytics-powerbi/
 └── Documentation/
     └── Dashboard_Overview.md
 
-👤 Author
+## 👤 Author
 Sarthak Gupta
