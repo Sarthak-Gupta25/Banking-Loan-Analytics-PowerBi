@@ -83,21 +83,6 @@ loan products, including Home Loan, LAP, Business Loan, Car Loan,
 Personal Loan, Education Loan, Agriculture Loan, Credit Line Loan,
 and Gold Loan.
 
-##banking-loan-analytics-powerbi/
-│
-├── README.md
-│
-├── PowerBI/
-│   └── Banking_Dashboard.pbix
-│
-├── Data/
-│   └── banking_loan_data.csv
-│
-├── Dashboard/
-│   └── Banking_Dashboard.png
-│
-└── Documentation/
-    └── Dashboard_Overview.md
 
 ## 👤 Author
 Sarthak Gupta
